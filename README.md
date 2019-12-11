@@ -1,3 +1,4 @@
+
 # AdvancedCAD
 ## My AdvancedCAD assignments
 
@@ -32,11 +33,11 @@ During this assignments I learned how to use Motion Studies and Slot Mates. Moti
 
 #### Components:
 ##### Base
-The base that held all the parts together
+Where all parts sit on.
 ##### Bracket
-The bracket that held the clip in place
+Holds the clip in place.
 ##### Clip
-The little piece that connected the shelf to the bracket
+Connects shelf to bracket.
 ##### ServoArm
 The servo arm that connects to the servo and pushes the shelf up and down
 ##### ServoMount
@@ -47,9 +48,10 @@ The shelf that was pushed up and down by the servo
 
 ### StressAnalysis
 #### Objective
-Create a part to understand how Stress Analysis works
+Learn how SolidWorks Stress Analysis works
 #### Lesson
-During this assgnment I learned how to use Stress Analyses and Silhouette. Stress Analysis is a program that will simulate real world stress on a object and will tell you if the force is great enough to break the part. In our Stress Anlysis we had to modify a part until it was strong enough to not break under a specified force (For this simulation it was 4000 N). Silhouette is a feature that will add a break (a line) in a other wise smooth face. To use it, select the face you want to break, and the plan that will break it.
-#### Picture
+I learned how to use Stress Analysis by making a part. Stress Analysis lets you simulate stress and shows weak/strong spots. 
+
 <img src="media/StressAnalysisPic1.PNG" width="300"/>
 <img src="media/StressAnalysisPic2.PNG" width="300"/>
+
